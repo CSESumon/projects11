@@ -1,0 +1,11 @@
+E:\02-01-15\StudentDepartmentApp\StudentDepartmentApp\bin\Debug\StudentDepartmentApp.exe.config
+E:\02-01-15\StudentDepartmentApp\StudentDepartmentApp\obj\Debug\StudentDepartmentApp.csprojResolveAssemblyReference.cache
+E:\02-01-15\StudentDepartmentApp\StudentDepartmentApp\obj\Debug\StudentDepartmentApp.Properties.Resources.resources
+E:\02-01-15\StudentDepartmentApp\StudentDepartmentApp\obj\Debug\StudentDepartmentApp.csproj.GenerateResource.Cache
+E:\02-01-15\StudentDepartmentApp\StudentDepartmentApp\bin\Debug\StudentDepartmentApp.exe
+E:\02-01-15\StudentDepartmentApp\StudentDepartmentApp\bin\Debug\StudentDepartmentApp.pdb
+E:\02-01-15\StudentDepartmentApp\StudentDepartmentApp\obj\Debug\StudentDepartmentApp.exe
+E:\02-01-15\StudentDepartmentApp\StudentDepartmentApp\obj\Debug\StudentDepartmentApp.pdb
+E:\02-01-15\StudentDepartmentApp\StudentDepartmentApp\obj\Debug\StudentDepartmentApp.Student_DB_UI.resources
+E:\02-01-15\StudentDepartmentApp\StudentDepartmentApp\obj\Debug\StudentDepartmentApp.EntryUI.resources
+E:\02-01-15\StudentDepartmentApp\StudentDepartmentApp\obj\Debug\StudentDepartmentApp.Menu.resources
